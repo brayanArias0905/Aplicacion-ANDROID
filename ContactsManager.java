@@ -1,4 +1,4 @@
-ublic class ContactsManager {
+public class ContactsManager {
 
  private final int CONTACT_PICKER_RESULT = 898;
  private Activity activity;
